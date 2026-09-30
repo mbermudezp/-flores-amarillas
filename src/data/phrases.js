@@ -1,0 +1,17 @@
+export const phrases = [
+  "Nunca dejes de sonreír, tu alegría contagia.",
+  "Eres más fuerte de lo que crees.",
+  "Gracias por ser una amiga tan especial.",
+  "Que nunca te falten flores amarillas ni motivos para sonreír.",
+  "Los buenos amigos son como las flores: alegran cualquier día.",
+  "Cuídate mucho, que el mundo te necesita.",
+  "Un buen amigo siempre estará cuando lo necesites.",
+  "Brillas más que un campo de flores amarillas.",
+  "La amistad verdadera florece con el tiempo.",
+  "Ojalá hoy tengas un día tan bonito como tú.",
+  "Recuerda: siempre hay alguien que te aprecia.",
+  "Tu amistad vale más que mil flores.",
+  "Sigue siendo esa persona tan linda que eres.",
+  "Aquí tienes un amigo para lo que necesites.",
+  "Que la vida te devuelva toda la bondad que das.",
+];
